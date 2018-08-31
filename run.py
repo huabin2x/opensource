@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # _*_ coding: utf-8 _*_
 
-VERSION = 1.8
+VERSION = 1.9
 
 def main(v):
     print v
